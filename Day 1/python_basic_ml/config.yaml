@@ -1,0 +1,4 @@
+app_name: "python_basic_ml"
+environment: "dev"
+version: "0.1.0"
+debug: true
