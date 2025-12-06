@@ -2,7 +2,7 @@
 
 A modular, scalable, production-grade ML architecture built using Python OOP
 
-🚀 Project Overview
+*🚀 Project Overview*
 
 Day 2 focuses on building a fully modular, object-oriented machine learning system — the same engineering style used at Google, Amazon, Meta, Netflix, and Apple.
 
