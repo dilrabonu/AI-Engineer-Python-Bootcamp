@@ -39,31 +39,55 @@ Algorithms: Logistic Regression / Random Forest
 heart_disease_oop_ml/
 │
 ├── data/
+
 │   └── heart_cleveland_upload.csv
+
 │
+
 ├── src/
+
 │   ├── data/
+
 │   │   └── dataset_loader.py
+
 │   │
+
 │   ├── preprocessing/
+
 │   │   └── preprocessor.py
+
 │   │
+
 │   ├── models/
+
 │   │   └── model_wrapper.py
+
 │   │
+
 │   ├── training/
+
 │   │   └── trainer.py
+
 │   │
+
 │   └── utils/
+
 │       ├── config.py
+
+
 │       └── logging_utils.py
+
 │
+
 ├── main.py
+
 ├── README.md
+
 └── requirements.txt
+
 This structure separates responsibilities clearly — a key requirement for scalable ML systems.
 
-🧩 Main Components
+**🧩 Main Components**
 🔹 1. DataConfig, ModelConfig, TrainingConfig
 
 Defined using Python dataclasses, enabling:
