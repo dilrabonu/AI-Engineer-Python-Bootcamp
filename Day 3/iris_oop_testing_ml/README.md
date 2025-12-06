@@ -54,38 +54,69 @@ Ensures build stability
 🧱 2. Project Structure
 Day 3/iris_oop_testing_ml/
 │
+
 ├── data/
+
 │   └── iris.csv
+
 │
+
 ├── src/
+
 │   ├── data/
+
 │   │   └── dataset_loader.py
+
 │   ├── preprocessing/
+
 │   │   └── preprocessor.py
+
 │   ├── models/
+
 │   │   └── model_wrapper.py
+
 │   ├── training/
+
 │   │   └── trainer.py
+
 │   └── utils/
+
 │       ├── config.py
+
 │       └── logging_utils.py
+
 │
+
 ├── tests/
+
 │   ├── conftest.py
+
 │   ├── test_dataset_loader.py
+
 │   ├── test_preprocessor.py
+
 │   ├── test_model_wrapper.py
+
 │   └── test_trainer.py
+
 │
+
 ├── .github/
+
 │   └── workflows/
+
 │       └── ci.yml
+
 │
+
 ├── main.py
+
 ├── requirements.txt
+
 └── README.md
 
-🧠 3. Pipeline Components (OOP Architecture)
+
+**🧠 3. Pipeline Components (OOP Architecture)**
 📌 CSVDatasetLoader
 
 Responsible for:
