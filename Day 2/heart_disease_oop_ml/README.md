@@ -1,4 +1,4 @@
-Day 2 – OOP Machine Learning Pipeline (Heart Disease Prediction)
+# Day 2 – OOP Machine Learning Pipeline (Heart Disease Prediction)
 
 A modular, scalable, production-grade ML architecture built using Python OOP
 
