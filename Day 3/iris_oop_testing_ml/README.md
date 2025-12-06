@@ -1,7 +1,7 @@
-🌸 Day 3 — Iris OOP ML Pipeline with PyTest, Fixtures, Mocks & GitHub Actions CI
+# 🌸 Day 3 — Iris OOP ML Pipeline with PyTest, Fixtures, Mocks & GitHub Actions CI
 A Production-Grade, Testable Machine Learning Pipeline
 
-This project implements a fully modular, fully tested, production-style ML pipeline built using:
+**This project implements a fully modular, fully tested, production-style ML pipeline built using:**
 
 Object-Oriented ML architecture
 
